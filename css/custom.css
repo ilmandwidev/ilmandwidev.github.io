@@ -1,0 +1,14 @@
+hr.solid {
+    border-top: 1px solid;
+    opacity: 0.75;
+}
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+  }
